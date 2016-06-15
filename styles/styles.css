@@ -46,7 +46,9 @@ body {
 
 /* Widget styles */
 #priorities li{
-  height: 3em;
+  margin: 5px;
+  text-align: center;
+  font-size: 3em;
   width: 50%;
   list-style: none;
 }
